@@ -1,0 +1,8 @@
+INternet
+Unix
+Bash
+Soft skills
+Git
+Js
+React
+TFT
